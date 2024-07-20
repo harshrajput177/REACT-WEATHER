@@ -1,0 +1,19 @@
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    /* margin-bottom: 20px; */
+    /* height: auto; */
+  } 
+  
+  .info-card {
+    width: 100%;
+  }
+  
+  .info-media {
+    width: 100%;
+    height: auto;
+  }
+  
+ 

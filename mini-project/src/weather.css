@@ -1,0 +1,31 @@
+.weather {
+  width: 330px;
+  height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+}
+
+/* .weather{
+  width: fit-content;
+} */
+
+.h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* @media (min-width: 345px) {
+  .weather {
+    max-width: 700px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .weather {
+    max-width: 900px;
+  }
+} */

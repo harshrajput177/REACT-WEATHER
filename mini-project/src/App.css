@@ -1,0 +1,16 @@
+.root {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 0px;
+  padding: 0px;
+  justify-content: center;
+  background-image: url("https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?cs=srgb&dl=pexels-pixabay-209831.jpg&fm=jpg");
+  background-size: cover; /* Ensures the image covers the entire container */
+  background-repeat: no-repeat;
+  /* background-position: center; Centers the background horizontally */
+  background-attachment: fixed; /* Fixes the background position */
+  width: 100vw;
+   /* Set height to cover full screen */
+}
+
+
